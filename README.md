@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! I'm the a college student studying programming!</h1>
+<h1 align="center">Hello!👋 I'm the a college student studying programming!</h1>
 
 <br>
            
