@@ -1,3 +1,14 @@
+<head>
+<style>
+body {
+  background-color: black;
+}
+</style>
+</head>
+
+
+<body>
+
 <h1 align="center">Hi! I'm the a college student studying programming!</h1>
 
 <br>
@@ -21,3 +32,4 @@ Languages that I used once more.
 
 Languages that I studying & Can use now.
 ><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp;
+<body>
