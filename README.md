@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm the a college student studying programming!</h1>
 
-&nbsp;
-<!--줄바꿈 왜 안되는지 모르겠지만 걍 이렇게 하면 되겠지 난 몰라~ -->
+<br>
            
 [![lHealMel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lHealMel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
