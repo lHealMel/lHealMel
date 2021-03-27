@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=lHealMel&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=lHealMel&fontSize=50)
 
 <h1 align="center">Hello!👋 I'm the a college student studying programming!</h1>
 
@@ -23,4 +23,4 @@ Languages that I studying & Can use now. <br> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp;
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=footer&text=%20&fontSize=90)
