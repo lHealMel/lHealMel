@@ -6,7 +6,7 @@
 [![lHealMel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lHealMel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lHealMel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-BOJ:<br>
+[BOJ](https://www.acmicpc.net/user/mtn2072)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mtn2072)](https://solved.ac/mtn2072)&nbsp;
 
 <p align="center">
