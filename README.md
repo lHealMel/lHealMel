@@ -1,4 +1,4 @@
-*Hi! I'm the a college student studying programming!*
+<h1 align="center">Hi! I'm the a college student studying programming!*</h1>
 =============
 &nbsp;
 <!--줄바꿈 왜 안되는지 모르겠지만 걍 이렇게 하면 되겠지 난 몰라~ -->
