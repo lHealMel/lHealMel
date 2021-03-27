@@ -22,4 +22,5 @@ Languages that I used once more.
 Languages that I studying & Can use now. <br> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp;
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
