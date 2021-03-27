@@ -7,7 +7,7 @@
 [![lHealMel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lHealMel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lHealMel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href = "https://www.acmicpc.net/user/mtn2072"><img src="https://img.shields.io/badge/BOJ-3766AB?style=for-the-badge&logo=appveyor&logo=pinboard&logoColor=white&link=https://www.acmicpc.net/user/mtn2072"></a>
+<a href = "https://www.acmicpc.net/user/mtn2072"><img src="https://img.shields.io/badge/BOJ-000000?style=for-the-badge&logo=appveyor&logo=pinboard&logoColor=white&link=https://www.acmicpc.net/user/mtn2072"></a>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mtn2072)](https://solved.ac/mtn2072)&nbsp;
 
