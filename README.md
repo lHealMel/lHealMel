@@ -19,5 +19,5 @@ Languages that I studying & Can use now. <br> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp;
 </p>
 
-BOJ:
+BOJ:<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mtn2072)](https://solved.ac/mtn2072)&nbsp;
