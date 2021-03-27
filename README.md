@@ -1,4 +1,4 @@
-*Hi! I'm the Student who learning programming!*
+*Hi! I'm the a college student studying programming!*
 =============
 
 [![lHealMel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lHealMel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
