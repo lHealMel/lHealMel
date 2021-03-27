@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=lHealMel&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&width=500&section=header&text=lHealMel&fontSize=40)
 <h1 align="center">Hello!👋 I'm the a college student studying programming!</h1>
 
 <br>
