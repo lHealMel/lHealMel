@@ -22,8 +22,6 @@ Languages that I used once more.
            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
            <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"></a><br>
            <br><br>
-Languages that I studying & Can use now. <br> &nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp;
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=footer&text=%20&fontSize=90)
