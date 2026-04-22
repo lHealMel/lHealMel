@@ -1,7 +1,7 @@
 <h1 align="center">Jiho Chung</h1>
 
 <p align="center">
-  <strong>Undergraduate AI Researcher @ <a href="https://sites.google.com/view/aimhi-lab">AIMHI Lab</a>, Gachon University</strong><br />
+  <strong>Undergraduate Research Assistant @ <a href="https://sites.google.com/view/aimhi-lab">AIMHI Lab</a>, Gachon University</strong><br />
   Explainable AI for Medical Imaging
 </p>
 
@@ -19,7 +19,7 @@
 - Affiliation: AIMHI Lab, Gachon University
 - Main Interests: Explainable AI, Medical Image Understanding, Vision-Language Models
 - Current Focus: Building an auditable multimodal bottleneck system for medical reporting
-- Platform Skill in Progress: Studying NCP MLXP and able to handle core workflows (environment setup, experiment runs, and basic monitoring)
+- Platform Skill in Progress: Studying NCP MLXP and able to handle core workflows
 
 ## Research Interests
 
