@@ -19,6 +19,7 @@
 - Affiliation: AIMHI Lab, Gachon University
 - Main Interests: Explainable AI, Medical Image Understanding, Vision-Language Models
 - Current Focus: Building an auditable multimodal bottleneck system for medical reporting
+- Platform Skill in Progress: Studying NCP MLXP and able to handle core workflows (environment setup, experiment runs, and basic monitoring)
 
 ## Research Interests
 
