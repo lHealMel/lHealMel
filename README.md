@@ -14,14 +14,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mtn2072)](https://solved.ac/mtn2072)&nbsp;
 
 <p align="center">
-Languages that I used once more. 
-           <br> &nbsp;
-           <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>
-           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
-           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
-           <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-           <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"></a><br>
-           <br><br>
+Hi.
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=footer&text=%20&fontSize=90)
